@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4840155B2189C11300F6323D /* script3.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script3.bash; path = ../../../../Desktop/script3.bash; sourceTree = "<group>"; };
-		4840155C2189C11300F6323D /* script1.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script1.bash; path = ../../../../Desktop/script1.bash; sourceTree = "<group>"; };
-		4840155D2189C11400F6323D /* script2.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script2.bash; path = ../../../../Desktop/script2.bash; sourceTree = "<group>"; };
 		4840155E2189C22100F6323D /* script5.bash */ = {isa = PBXFileReference; lastKnownFileType = text; name = script5.bash; path = ../script5.bash; sourceTree = "<group>"; };
 		4840155F2189C22100F6323D /* script4.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script4.bash; path = ../script4.bash; sourceTree = "<group>"; };
+		48F3840A2189C330003D196B /* script1.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script1.bash; path = ../script1.bash; sourceTree = "<group>"; };
+		48F3840B2189C330003D196B /* script2.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script2.bash; path = ../script2.bash; sourceTree = "<group>"; };
+		48F3840C2189C330003D196B /* script3.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script3.bash; path = ../script3.bash; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		484015512189C0E600F6323D = {
 			isa = PBXGroup;
 			children = (
-				4840155C2189C11300F6323D /* script1.bash */,
+				48F3840B2189C330003D196B /* script2.bash */,
+				48F3840C2189C330003D196B /* script3.bash */,
 				4840155F2189C22100F6323D /* script4.bash */,
 				4840155E2189C22100F6323D /* script5.bash */,
-				4840155D2189C11400F6323D /* script2.bash */,
-				4840155B2189C11300F6323D /* script3.bash */,
+				48F3840A2189C330003D196B /* script1.bash */,
 			);
 			sourceTree = "<group>";
 		};
