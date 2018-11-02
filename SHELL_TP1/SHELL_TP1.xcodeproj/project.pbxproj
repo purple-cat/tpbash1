@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		4840155E2189C22100F6323D /* script5.bash */ = {isa = PBXFileReference; lastKnownFileType = text; name = script5.bash; path = ../script5.bash; sourceTree = "<group>"; };
 		4840155F2189C22100F6323D /* script4.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script4.bash; path = ../script4.bash; sourceTree = "<group>"; };
+		48BB758A218C4F590088E4A8 /* script6.bash */ = {isa = PBXFileReference; lastKnownFileType = text; name = script6.bash; path = ../script6.bash; sourceTree = "<group>"; };
 		48F3840A2189C330003D196B /* script1.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script1.bash; path = ../script1.bash; sourceTree = "<group>"; };
 		48F3840B2189C330003D196B /* script2.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script2.bash; path = ../script2.bash; sourceTree = "<group>"; };
 		48F3840C2189C330003D196B /* script3.bash */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = script3.bash; path = ../script3.bash; sourceTree = "<group>"; };
@@ -22,6 +23,7 @@
 				48F3840C2189C330003D196B /* script3.bash */,
 				4840155F2189C22100F6323D /* script4.bash */,
 				4840155E2189C22100F6323D /* script5.bash */,
+				48BB758A218C4F590088E4A8 /* script6.bash */,
 				48F3840A2189C330003D196B /* script1.bash */,
 			);
 			sourceTree = "<group>";
